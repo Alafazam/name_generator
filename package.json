@@ -1,6 +1,6 @@
 {
   "name": "name_generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small lightwight package for genrating cool random names, (taken from docker)",
   "files": [
     "index.js"
@@ -16,6 +16,7 @@
    "type": "git",
    "url": "https://github.com/Alafazam/name_generator.git"
   },
+  "tonicExampleFilename": "example.js",
   "keywords": [
     "name",
     "namegenrator",
