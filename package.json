@@ -1,0 +1,29 @@
+{
+  "name": "name_generator",
+  "version": "1.0.0",
+  "description": "A small lightwight package for genrating cool random names, (taken from docker)",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/Alafazam/name_generator.git"
+  },
+  "keywords": [
+    "name",
+    "namegenrator",
+    "docker"
+  ],
+  "author": "Alaf Azam Khan <alafazam@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~4.12.0"
+  }
+}
