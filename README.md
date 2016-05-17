@@ -11,7 +11,6 @@ $ npm i name_generator --save
 > Create a new generator:
 
 ```js
-// require in the IdGenerator
 var NameGenerator = require("name_generator")
 
 // start using the generator to create

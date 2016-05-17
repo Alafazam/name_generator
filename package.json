@@ -1,6 +1,6 @@
 {
   "name": "name_generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate cool 'not so' random names",
   "files": [
     "index.js"
